@@ -1,0 +1,19 @@
+h1, h2, h3 {
+    margin: 0;
+}
+
+.Quiz {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.Quiz-header {
+    text-align: center;
+}
+
+.Quiz-header h1 {
+    font-size: 3em;
+    color: #05082E;
+}

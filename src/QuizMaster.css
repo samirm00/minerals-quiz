@@ -1,0 +1,13 @@
+.QuizMaster {
+    margin: 2em;
+    border-radius: 1em;
+    background-color: white;
+    padding: 2em;
+    color: #437795;
+    width: 50%;
+    text-align: center;
+}
+
+.QuizMaster-figure img {
+    width: 100%;
+}
